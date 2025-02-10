@@ -1,0 +1,5 @@
+string=input("Please enter a string:")
+length=len(string)
+uppercase=string.upper()
+lowercase=string.lower()
+print(length,uppercase,lowercase)

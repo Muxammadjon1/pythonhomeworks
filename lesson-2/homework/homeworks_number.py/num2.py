@@ -1,0 +1,7 @@
+a=float(input("Enter the first number:"))
+b=float(input("Enter the second number:"))
+c=float(input("Enter the third number:"))
+largest_number=max(a,b,c)
+smallest_number=min(a,b,c)
+print("Largest number is",largest_number)
+print("Smallest number is",smallest_number)
